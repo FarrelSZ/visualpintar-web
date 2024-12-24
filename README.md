@@ -18,10 +18,10 @@ Akses situs live di: [https://visual.pintar-id.com](https://visual.pintar-id.com
 
 ### 3. **Layanan**  
   - Penjelasan detail tentang layanan yang ditawarkan, seperti:  
-    - Desain Grafis  
-    - Pengembangan Website  
-    - Produksi Video & Animasi  
-    - Branding & Marketing  
+    - Desain Grafis
+    - Manajemen Sosial Media
+    - Branding & Marketing
+    - Foto & video  
 
 ### 4. **Portofolio**  
   - Kumpulan proyek-proyek yang telah dikerjakan oleh Visual Pintar sebagai bukti keahlian dan pengalaman.  
@@ -38,8 +38,6 @@ Akses situs live di: [https://visual.pintar-id.com](https://visual.pintar-id.com
 
 - **Frontend**:  
   - HTML5, CSS3, JavaScript  
-  - Framework: [React.js](https://reactjs.org) atau [Vue.js](https://vuejs.org) (opsional, tergantung implementasi)  
-
 ---
 
 ## 🚀 Cara Menjalankan Proyek Secara Lokal  
