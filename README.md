@@ -4,7 +4,7 @@ Selamat datang di repositori **Company Profile Visual Pintar**.
 Website ini dirancang untuk memberikan gambaran tentang layanan, visi, misi, dan portofolio dari Visual Pintar, perusahaan yang berfokus pada solusi visual dan teknologi kreatif.  
 
 ## 🌐 Website  
-Akses situs live di: [https://visual.pintar-id.com](https://visualpintar.com/)  
+Akses situs live di: [https://visualpintar.com/](https://visualpintar.com/)  
 
 ---
 
